@@ -1,0 +1,5 @@
+
+config:
+  - host: 11111.11111.1111
+    username: administrator@example.local
+    password: Abcd123$
