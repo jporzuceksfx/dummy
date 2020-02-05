@@ -3,3 +3,9 @@ config:
   - host: 11111.11111.1111
     username: administrator@example.local
     password: Abcd123$
+
+
+config2:
+  - host: 11111.11111.1111
+    username: administrator@example.local
+    password: V3rYS3c4etP@ss
